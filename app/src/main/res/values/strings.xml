@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProyectoClase</string>
+
+    <string name="edt_Email">Escribe tu email</string>
+    <string name="edt_contraseña">Escribe tu contraseña</string>
+    <string name="bt_inicar_juego">Iniciar juego</string>
+    <string name="bt_registro">Registrarse</string>
+    <string name="bt_eliminar">Eliminar</string>
+
+    <string name="edt_nick">Escribe tu nick</string>
+    <string name="bt_volverInicio"> Volver al inicio de sesion</string>
+    <string name="bt_eliminarCuenta">Eliminar cuenta</string>
+
+    <string name="txt_suma">+1</string>
+
+    <string name="txt_PuntuacionFinal"> Tu puntuación final ha sido de: </string>
+    <string name="txt_Record"> Tu record es de: </string>
+    <string name="txt_gameOver"> GAME OVER</string>
+
+    <string name="textViewTop">TOP 5 MEJORES CAZADORES</string>
+</resources>
